@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728845931 source:c:\users\sya\onedrive - cape peninsula university of technology\desktop\codeblocks\csv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
